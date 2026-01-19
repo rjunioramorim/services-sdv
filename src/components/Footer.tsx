@@ -22,7 +22,7 @@ const Footer = () => {
               <li><a href="#doulagem" className="hover:text-primary transition-colors">Acompanhamento de Doulagem</a></li>
               <li><a href="#educacao" className="hover:text-primary transition-colors">Educação Perinatal</a></li>
               <li><a href="#amamentacao" className="hover:text-primary transition-colors">Consultoria de Amamentação</a></li>
-              <li><a href="#massagem-gestacional" className="hover:text-primary transition-colors">Massagem Gestacional</a></li>
+              <li><a href="#massagem-gestacional" className="hover:text-primary transition-colors">Massagens</a></li>
               <li><a href="#cursos" className="hover:text-primary transition-colors">Cursos e Palestras</a></li>
             </ul>
           </div>
